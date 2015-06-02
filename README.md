@@ -1,7 +1,7 @@
 # Woodman run
 
 # Team #2 , Members
-1. Weike Bi <BIG><BIG> 504213199
+1. Weike Bi , 504213199
 
 
 
