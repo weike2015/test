@@ -2,7 +2,10 @@
 
 # Team #2
 Members:
-Weike Bi              504213199
+
+Weike Bi
+
+504213199
 
 
 
